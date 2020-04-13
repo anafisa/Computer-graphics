@@ -1,2 +1,2 @@
-# Computer-graphics-Computational-geometry
+# Computer-graphics
 > labs and projects 
